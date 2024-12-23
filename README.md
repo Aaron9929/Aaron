@@ -74,9 +74,9 @@ I am constantly learning and staying up-to-date with the latest in data analytic
 
 Feel free to connect with me:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [LinkedIn Profile](#) *(link to your profile)*
-- **Twitter**: [@YourTwitterHandle](#) *(optional)*
+- **Email**: davenportamd@outlook.com
+- **LinkedIn**: www.linkedin.com/in/aaron-davenport-a4591a180
+- **Twitter**: N/A
 - **Portfolio**: [Your Portfolio](#) *(optional link to portfolio)*
 
 ---
