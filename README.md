@@ -36,12 +36,12 @@ As a Data Analyst, my goal is to help businesses understand their data through:
 
 Here are a few projects I've worked on that showcase my skills:
 
-### 1. **Sales Performance Dashboard** (Tableau)
-   - **Overview**: A dashboard to analyze sales trends, key performance indicators (KPIs), and regional performance.
-   - **Tools Used**: Tableau, SQL
-   - **Project Link**: [Sales Performance Dashboard](#) *(link to your project)*
+### 1. **Return Analysis ** (Tableau)
+   - **Overview**: Conducted a return analysis to determine why customers returned items using a dashboard and visuals. Analysis showed that more data needed to be gathered to determine the root cause for returns. .
+   - **Tools Used**: Tableau,
+   - **Project Link**: [Return Analysis link https://public.tableau.com/views/Returns_17331977031030/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ](#) *(link to your project)*
 
-   ![Sales Dashboard](https://via.placeholder.com/600x400.png?text=Sales+Dashboard)
+   ![Sales Dashboard](https://public.tableau.com/views/Returns_17331977031030/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 2. **Customer Segmentation Analysis** (Power BI)
    - **Overview**: An analysis to categorize customers into segments based on purchasing behavior, helping the marketing team target key audiences.
