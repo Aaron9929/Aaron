@@ -43,12 +43,12 @@ Here are a few projects I've worked on that showcase my skills:
 
    ![Return Analysis](https://public.tableau.com/views/Returns_17331977031030/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### 2. **Customer Segmentation Analysis** (Power BI)
-   - **Overview**: An analysis to categorize customers into segments based on purchasing behavior, helping the marketing team target key audiences.
-   - **Tools Used**: Power BI, Excel, SQL
-   - **Project Link**: [Customer Segmentation](#)
+### 2. **Zomato Analysis ** (Power BI)
+   - **Overview**: Conducted analysis of Zomato’s data to determine who their customers are and any possible ways to increase sales. 
+   - **Tools Used**: Power BI, Excel
+   - **Project Link**: [Zomato Analysis](#)
 
-   ![Customer Segmentation](https://via.placeholder.com/600x400.png?text=Customer+Segmentation)
+   ![Customer Segmentation](file:///C:/Users/daven/AppData/Local/Temp/Power%20BI%20Desktop/print-job-bf2dcb43-47bc-4681-921d-352551c0f360/Zomato%20Project.pdf)
 
 ### 3. **Employee Turnover Prediction** (Excel & SQL)
    - **Overview**: A predictive model built to help HR understand factors influencing employee turnover.
