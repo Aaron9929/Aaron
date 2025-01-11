@@ -41,7 +41,7 @@ Here are a few projects I've worked on that showcase my skills:
    - **Tools Used**: Tableau,
    - **Project Link**: [Return Analysis link https://public.tableau.com/views/Returns_17331977031030/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ](#) *(link to your project)*
 
-   ![Sales Dashboard](https://public.tableau.com/views/Returns_17331977031030/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   ![Return Analysis](https://public.tableau.com/views/Returns_17331977031030/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 2. **Customer Segmentation Analysis** (Power BI)
    - **Overview**: An analysis to categorize customers into segments based on purchasing behavior, helping the marketing team target key audiences.
