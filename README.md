@@ -48,14 +48,14 @@ Here are a few projects I've worked on that showcase my skills:
    - **Tools Used**: Power BI, Excel
    - **Project Link**: [Zomato Analysis](#)
 
-   ![Customer Segmentation](file:///C:/Users/daven/AppData/Local/Temp/Power%20BI%20Desktop/print-job-bf2dcb43-47bc-4681-921d-352551c0f360/Zomato%20Project.pdf)
+   ![Zomato Analysis ](file:///C:/Users/daven/AppData/Local/Temp/Power%20BI%20Desktop/print-job-bf2dcb43-47bc-4681-921d-352551c0f360/Zomato%20Project.pdf)
 
-### 3. **Employee Turnover Prediction** (Excel & SQL)
-   - **Overview**: A predictive model built to help HR understand factors influencing employee turnover.
-   - **Tools Used**: Excel, SQL, Google Sheets
-   - **Project Link**: [Employee Turnover](#)
+### 3. **Cohort Analysis ** (Excel & SQL)
+   - **Overview**: An analysis of customer retention rates to see if customers were making repeat purchases.
+   - **Tools Used**: Excel, Google Sheets
+   - **Project Link**: [Cohort Analysis](#)
 
-   ![Employee Turnover](https://via.placeholder.com/600x400.png?text=Employee+Turnover)
+   ![Cohort Analysis ](https://docs.google.com/spreadsheets/d/1itmPTmdNBxG4I0_ezMTB7m6N7LfbXGrzqLoPSDeEmR4/edit?usp=sharing)
 
 ---
 
