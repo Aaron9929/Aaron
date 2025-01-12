@@ -50,7 +50,7 @@ Here are a few projects I've worked on that showcase my skills:
 
    ![Zomato Analysis ](file:///C:/Users/daven/AppData/Local/Temp/Power%20BI%20Desktop/print-job-bf2dcb43-47bc-4681-921d-352551c0f360/Zomato%20Project.pdf)
 
-### 3. **Cohort Analysis ** (Excel & SQL)
+### 3. **Cohort Analysis ** (Excel & Google Sheets)
    - **Overview**: An analysis of customer retention rates to see if customers were making repeat purchases.
    - **Tools Used**: Excel, Google Sheets
    - **Project Link**: [Cohort Analysis](#)
