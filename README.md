@@ -95,7 +95,7 @@ I appreciate you stopping by my GitHub profile. If you're looking to collaborate
 
 ---
 
-#### Made with ❤️ by [Your Name]
+#### Made with ❤️ by Aaron Davenport
 
 ---
 
